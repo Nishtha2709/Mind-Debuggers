@@ -17,6 +17,10 @@ This idea has been devised from real life situations where we compare new appare
 * [Future Scope](#future-scope)
 * [Result](#result)
 
+## Demo videos
+
+[Demo](https://drive.google.com/drive/u/1/folders/11OzT5Qlz4-n9veFE6W3NxstLMmV2FGHA)
+
 ## Description
 This solution will help the customer buy their appropriate fit from anytime anywhere. 
 All they will need is a perfectly fitting garment (which the customer already owns) to find their perfect fit.   
